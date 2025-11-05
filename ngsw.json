@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1760580750221,
+  "timestamp": 1762363386879,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -84,12 +84,12 @@
         "/cordova_plugins.js",
         "/favicon.ico",
         "/index.html",
-        "/main.e639b17c837b4eee.js",
+        "/main.ec6cb8f398815b20.js",
         "/manifest.webmanifest",
         "/polyfills-core-js.3d981225a8d8494b.js",
         "/polyfills-dom.02d0781abc5dab13.js",
         "/polyfills.eec193f2ea3beb4d.js",
-        "/runtime.1bd45cbd47181ddd.js",
+        "/runtime.af8c67881769a6d1.js",
         "/styles.0daacb0466cc303c.css"
       ],
       "patterns": []
@@ -1156,11 +1156,11 @@
     "/common.d24089c2e4012162.js": "dbfbfd4103c729496a7c6f7d7e5dcf9cfc9f1852",
     "/cordova.3c8302fba18b7d3c.js": "cae6b6e8855cfe4422268556babef972168e32c5",
     "/cordova.js": "cac7e8dfad5ad180430abd13873fea475dcad328",
-    "/cordova_plugins.js": "12f384c2c5b55c8eb5b0f67e21b16510088d7f2c",
+    "/cordova_plugins.js": "b6c96b070324a84941457e16903b02f98c2a0c15",
     "/favicon.ico": "696dfbca3c3326f3a7832c34da7188bf98d59dbe",
     "/icons8-home.5c3af35990e7b937.svg": "08828a5223afec9acb9e79b6603dcaf5e561f1b9",
-    "/index.html": "2a4bb689859f85183069d5c61b4220d400f11ae3",
-    "/main.e639b17c837b4eee.js": "91ae4f0874d0dd7255d446de417ee374f290dc60",
+    "/index.html": "f53bb27ba27832ecabb2e6b30877a3e8bcd18274",
+    "/main.ec6cb8f398815b20.js": "01cdf434ba8a99bb5531ccb1bd5ce04bd12d7d12",
     "/manifest.webmanifest": "9a088b7c4339228d1082e666ce105dc889bc180c",
     "/montserrat-v14-latin-regular.016fddc825bb37e6.woff2": "7b7c670ef2f0ba7fc0ce6437e523ccbdc847fde2",
     "/montserrat-v14-latin-regular.b9de6aa2f4bccfc5.woff": "5af1938d1327395f47c84e57b6ba7756234d2262",
@@ -1170,7 +1170,7 @@
     "/polyfills-core-js.3d981225a8d8494b.js": "9eb2eca68fda371eb6a7ab37c9648f24c5ed15ad",
     "/polyfills-dom.02d0781abc5dab13.js": "af9d9d22af19fa501d0b895ea61917d4a0a03adf",
     "/polyfills.eec193f2ea3beb4d.js": "78b6ba008bc89a491e09bf30cb4e82f091b9aa20",
-    "/runtime.1bd45cbd47181ddd.js": "63ed30a440d1d9f32b32444764bdb2152b9a6439",
+    "/runtime.af8c67881769a6d1.js": "1ee6f4caca952e8958b169d39fc58e7fb70d8e5c",
     "/styles.0daacb0466cc303c.css": "98317706bcc95bf67c7516f6a5f4e7d0b60f0590"
   },
   "navigationUrls": [
